@@ -7,3 +7,6 @@ As a recent MSc Data Science graduate with strong expertise in data analytics an
 # Projects
 
 ## ML Projects
+1. [Wine Quality Prediction and Model Deployment Pipeline ](https://dagshub.com/afshan5225/wineprediction)
+2. [Cold Mail Generator using LangChain](https://github.com/afshan5225/Cold-email-generator)
+3. [Text Summarization System Using PEGASUS (Hugging Face)](https://github.com/afshan5225/textsummarizer)
